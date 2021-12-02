@@ -221,9 +221,9 @@ indic_preco <- function(dMes_preco, estrat, ord, ret_fatores, ret_rf) {
   } else if (estrat == "AR"){
     indicador <- as.data.frame(apply(dMes_preco[, -1], 2, function(x) as.numeric(coef(lm(x[-1] ~ lag(x)[-1]))[1]) ))
   } else {
-    periodo_fatores <- merge(dMes_preco[, 1], ret_fatores)
+    periodo_fatores <- merge(dMes_preco[, 1, drop = FALSE], ret_fatores)
     colnames(periodo_fatores) <- c("Data", "Indice")
-    periodo_rf <- merge(dMes_preco[, 1], ret_rf)
+    periodo_rf <- merge(dMes_preco[,1, drop = FALSE], ret_rf)
     colnames(periodo_rf) <- c("Data", "Risk_free")
     
     form <- "I(x - periodo_rf$Risk_free) ~ I(periodo_fatores$Indice - periodo_rf$Risk_free)"
