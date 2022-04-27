@@ -8,8 +8,7 @@ O nome da equipe era RBTP (R Better Than Python).
 
 # Mensagem Final (Rafael Lavrado)
 
-🚀FINALISTAS DESAFIO QUANTAMENTAL
-
+FINALISTAS DESAFIO QUANTAMENTAL
 
 Bom Dia Pessoal,
  
