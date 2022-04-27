@@ -42,7 +42,7 @@ Nome da Equipe: IMEFINANCE
 Universidade: IME
 Liga Representada: IME Finance
  
-Uma menção honrosa para os grupos _RBTP da UFMG_ e Tavros da UERGS que ficaram empatados em sexto lugar.
+Uma menção honrosa para os grupos **RBTP da UFMG** e Tavros da UERGS que ficaram empatados em sexto lugar.
  
 Parabéns a todos aos finalistas. E boa sorte na final 🍀 
 
