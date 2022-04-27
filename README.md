@@ -8,7 +8,7 @@ O nome da equipe era RBTP (R Better Than Python).
 
 # Mensagem Final (Rafael Lavrado)
 
-" 🚀FINALISTAS DESAFIO QUANTAMENTAL
+🚀FINALISTAS DESAFIO QUANTAMENTAL
 
 
 Bom Dia Pessoal,
@@ -43,10 +43,10 @@ Nome da Equipe: IMEFINANCE
 Universidade: IME
 Liga Representada: IME Finance
  
-Uma menção honrosa para os grupos RBTP da UFMG e Tavros da UERGS que ficaram empatados em sexto lugar.
+Uma menção honrosa para os grupos *RBTP da UFMG* e Tavros da UERGS que ficaram empatados em sexto lugar.
  
 Parabéns a todos aos finalistas. E boa sorte na final 🍀 
 
 Em breve vamos anunciar por aqui tbm novidades sobre os programas de summer job e estágio na Itaú Asset
 
-Fiquem ligados aqui no grupo!"
+Fiquem ligados aqui no grupo!
