@@ -4,7 +4,7 @@ Esse repositório contém as bases de dados, os códigos R e alguns outputs dess
 
 A equipe era composta por Pedro Teles, Henrique Drumond, Marcel Zanetti e Luan Cezári(?).
 
-O nome da equipe era RBTP (R Better Than Python).
+O nome da equipe era RBTP.
 
 # Mensagem Final (Rafael Lavrado)
 
